@@ -22,7 +22,7 @@
 .dragon {background-color:#6f38f6 !important;}
 .fairy {background-color: #f9aec7 !important;}
 
-body {background-color: #f6f8fc;}
+body {background-color: #f6f8fc; height: 100vh;}
 
 
 
@@ -112,6 +112,13 @@ body {background-color: #f6f8fc;}
     padding: 0.3rem;
     font-size: 0.9rem;
     cursor: pointer;
+}
+
+.titlePoke{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
 }
 
 @media screen and (min-width:355px) {

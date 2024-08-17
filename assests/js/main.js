@@ -1,4 +1,4 @@
-const limit = 5
+const limit = 16
 let offset = 0;
 const url = `https://pokeapi.co/api/v2/pokemon?offset=${offset}&limit=${limit}`
 
@@ -36,7 +36,7 @@ function loadPokemonItens(offset, limit) {
 loadPokemonItens(offset, limit)
 
 
-const maxRecords = 15
+const maxRecords = 100
 
 
 loadMoreButton.addEventListener('click', () => {

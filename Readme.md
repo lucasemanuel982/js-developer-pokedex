@@ -16,8 +16,7 @@
 <h2>Instruções de Uso</h2>
 <ol>
     <li><strong>Clone o Repositório</strong>:
-        <pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio</code></pre>
+        <pre><code>https://github.com/lucasemanuel982/js-developer-pokedex.git</code></pre>
     </li>
     <li><strong>Abra o Arquivo HTML</strong>: Abra o arquivo <code>index.html</code> no seu navegador para ver o projeto em ação.</li>
     <li><strong>Explore o Projeto</strong>:
